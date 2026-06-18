@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>339.jpg</filename>
+	<path>C:\Users\快哉此风\Desktop\VOC2007\JPEGImages\563.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>braille</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>663</ymin>
+			<xmax>369</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>
