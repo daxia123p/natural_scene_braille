@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>211.jpg</filename>
+	<path>C:\Users\快哉此风\Desktop\test\657.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>braille</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>527</ymin>
+			<xmax>238</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>
