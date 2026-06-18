@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>47.jpg</filename>
+	<path>D:\DeepLearning\faster-rcnn-keras2\VOCdevkit\VOC2007\JPEGImages\47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>313</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>braille</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>143</ymin>
+			<xmax>288</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>
