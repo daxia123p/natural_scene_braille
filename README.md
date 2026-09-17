@@ -1,11 +1,20 @@
-## License and Attribution
+# 自然场景盲文图像数据集 - 引用指引
 
-This repository does not claim ownership of the original dataset.
+## 仓库说明
+  本仓库仅作为公开数据集的**引用说明与合规指引**，**不存储、不分发任何数据集实体文件**。
 
-The original dataset is **Natural Scene Braille Character Recognition Dataset**, published by **lu li qiong, Wu Dong, and Xiong Jianfang**. The dataset is licensed under **CC BY-NC-ND 4.0**.
+## 原始数据集信息
+- 数据集名称：自然场景盲文图像数据集
+- 对应文献：《自然场景盲文图像数据集及盲文段检测方法》
+- 作者：卢利琼, 陈长江, 吴东, 熊建芳
+- 发表期刊：计算机工程, 2023, 49(10): 171-177
+- 官方 DOI：`10.19678/j.issn.1000-3428.0065874`
+- 原始标注：盲文段边界框（目标检测任务）
 
-Original dataset DOI: 10.57760/sciencedb.j00188.00007
+## 许可说明
+本数据集采用 **CC BY-NC-ND 4.0** 许可协议：
+-  允许：非商业学术研究使用，使用时请标注原作者与文献出处
+-  禁止：修改数据集、制作衍生版本、二次公开发布/分发数据集文件
 
-According to the CC BY-NC-ND 4.0 license, the dataset may be shared for non-commercial purposes with proper attribution, but modified or derivative versions may not be redistributed without permission from the original authors.
-
-Please refer to the original dataset page and license before using this dataset.
+## 获取方式
+请通过原论文官方渠道获取原始数据集，遵循许可协议使用。
